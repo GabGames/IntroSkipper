@@ -14,7 +14,7 @@
     skipIntro: true,
     skipOutro: true,
     autoNext: true,
-    introEnd: 145,
+    introEnd: 146,
     outroStart: 1342,
     outroEnd: 1374
   };
