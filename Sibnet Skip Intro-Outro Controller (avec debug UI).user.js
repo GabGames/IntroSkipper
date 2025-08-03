@@ -15,8 +15,8 @@
     skipOutro: true,
     autoNext: true,
     introEnd: 145,
-    outroStart: 1300,
-    outroEnd: 1400
+    outroStart: 1342,
+    outroEnd: 1374
   };
 
   let lastSkip = null;
